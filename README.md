@@ -1,3 +1,4 @@
 # CSE676-Final-Project
 
-member: James Nguyen
+Member 1: James Nguyen
+Member 2: Jatin Chhabria
